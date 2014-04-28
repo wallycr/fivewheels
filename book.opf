@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="guid_id">
+   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+      <dc:identifier opf:scheme="GUID" id="guid_id">dc5bc040dcf282b790be56b0f343ef4ec173c029</dc:identifier>
+      <dc:identifier opf:scheme="ASIN">B001OMGTBC</dc:identifier>
+      <dc:identifier opf:scheme="oASIN">0806626925</dc:identifier>
+      <dc:title>Five Wheels to Successful Sight-Singing</dc:title>
+      <dc:creator opf:role="aut">John Bertalot</dc:creator>
+      <dc:language>en</dc:language>
+      <dc:date>20080520T03:42</dc:date>
+      <meta name="cover" content="bookcover"/>
+   </metadata>
+<manifest>
+   <item id="book" href="book.html" media-type="application/xhtml+xml"/>
+   <item id="stylesheet" href="style.css" media-type="text/css"/>
+   <item id="img0000" href="img/img0000.jpg" media-type="image/jpeg"/>
+   <item id="img0001" href="img/img0001.jpg" media-type="image/jpeg"/>
+   <item id="img0002" href="img/img0002.jpg" media-type="image/jpeg"/>
+   <item id="img0003" href="img/img0003.jpg" media-type="image/jpeg"/>
+   <item id="img0004" href="img/img0004.jpg" media-type="image/jpeg"/>
+   <item id="img0005" href="img/img0005.jpg" media-type="image/jpeg"/>
+   <item id="img0006" href="img/img0006.jpg" media-type="image/jpeg"/>
+   <item id="img0007" href="img/img0007.jpg" media-type="image/jpeg"/>
+   <item id="img0008" href="img/img0008.jpg" media-type="image/jpeg"/>
+   <item id="img0009" href="img/img0009.jpg" media-type="image/jpeg"/>
+   <item id="img0010" href="img/img0010.jpg" media-type="image/jpeg"/>
+   <item id="img0011" href="img/img0011.jpg" media-type="image/jpeg"/>
+   <item id="img0012" href="img/img0012.jpg" media-type="image/jpeg"/>
+   <item id="img0013" href="img/img0013.jpg" media-type="image/jpeg"/>
+   <item id="img0014" href="img/img0014.jpg" media-type="image/jpeg"/>
+   <item id="img0015" href="img/img0015.jpg" media-type="image/jpeg"/>
+   <item id="img0016" href="img/img0016.jpg" media-type="image/jpeg"/>
+   <item id="img0017" href="img/img0017.jpg" media-type="image/jpeg"/>
+   <item id="img0018" href="img/img0018.jpg" media-type="image/jpeg"/>
+   <item id="img0019" href="img/img0019.jpg" media-type="image/jpeg"/>
+   <item id="img0020" href="img/img0020.jpg" media-type="image/jpeg"/>
+   <item id="img0021" href="img/img0021.jpg" media-type="image/jpeg"/>
+   <item id="img0022" href="img/img0022.jpg" media-type="image/jpeg"/>
+   <item id="img0023" href="img/img0023.jpg" media-type="image/jpeg"/>
+   <item id="img0024" href="img/img0024.jpg" media-type="image/jpeg"/>
+   <item id="img0025" href="img/img0025.jpg" media-type="image/jpeg"/>
+   <item id="img0026" href="img/img0026.jpg" media-type="image/jpeg"/>
+   <item id="img0027" href="img/img0027.jpg" media-type="image/jpeg"/>
+   <item id="img0028" href="img/img0028.jpg" media-type="image/jpeg"/>
+   <item id="img0029" href="img/img0029.jpg" media-type="image/jpeg"/>
+   <item id="img0030" href="img/img0030.jpg" media-type="image/jpeg"/>
+   <item id="img0031" href="img/img0031.jpg" media-type="image/jpeg"/>
+   <item id="img0032" href="img/img0032.jpg" media-type="image/jpeg"/>
+   <item id="img0033" href="img/img0033.jpg" media-type="image/jpeg"/>
+   <item id="img0034" href="img/img0034.jpg" media-type="image/jpeg"/>
+   <item id="img0035" href="img/img0035.jpg" media-type="image/jpeg"/>
+   <item id="img0036" href="img/img0036.jpg" media-type="image/jpeg"/>
+   <item id="img0037" href="img/img0037.jpg" media-type="image/jpeg"/>
+   <item id="page0002_0000" href="img/page0002_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0003_0000" href="img/page0003_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0003_0001" href="img/page0003_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0010_0000" href="img/page0010_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0012_0000" href="img/page0012_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0012_0001" href="img/page0012_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0028_0000" href="img/page0028_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0028_0001" href="img/page0028_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0063_0000" href="img/page0063_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0063_0001" href="img/page0063_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0064_0000" href="img/page0064_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0065_0000" href="img/page0065_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0065_0001" href="img/page0065_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0072_0000" href="img/page0072_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0073_0000" href="img/page0073_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0082_0000" href="img/page0082_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0000" href="img/page0089_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0001" href="img/page0089_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0002" href="img/page0089_0002.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0003" href="img/page0089_0003.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0004" href="img/page0089_0004.svg" media-type="image/svg+xml"/>
+   <item id="page0089_0005" href="img/page0089_0005.svg" media-type="image/svg+xml"/>
+   <item id="page0110_0000" href="img/page0110_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0111_0000" href="img/page0111_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0111_0001" href="img/page0111_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0112_0000" href="img/page0112_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0112_0001" href="img/page0112_0001.svg" media-type="image/svg+xml"/>
+   <item id="page0113_0000" href="img/page0113_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0114_0000" href="img/page0114_0000.svg" media-type="image/svg+xml"/>
+   <item id="page0114_0001" href="img/page0114_0001.svg" media-type="image/svg+xml"/>
+   <item id="bookcover" href="cover.jpg" media-type="image/jpeg" />
+</manifest>
+<spine>
+   <itemref idref="book" />
+</spine>
+   <guide>
+      <reference href="cover.jpg" type="cover" title="Cover"/>
+   </guide>
+</package>
